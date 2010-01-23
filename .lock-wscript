@@ -1,9 +1,0 @@
-argv = ['/usr/local/bin/node-waf', 'configure']
-blddir = '/Users/dekz/Projects/node-sqlite/build'
-commands = {'dist': 0, 'configure': True, 'distcheck': 0, 'install': 0, 'build': 0, 'clean': 0, 'distclean': 0, 'check': 0, 'uninstall': 0}
-cwd = '/Users/dekz/Projects/node-sqlite'
-environ = {'USERNAME': 'root', 'SSH_AUTH_SOCK': '/tmp/launch-byuEqf/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'SUDO_UID': '501', 'SUDO_GID': '20', 'LOGNAME': 'root', 'USER': 'root', 'HOME': '/Users/dekz', 'PATH': '/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin', 'DISPLAY': '/tmp/launch-WnH1em/:0', 'LANG': 'en_AU.UTF-8', 'SUDO_COMMAND': '/usr/local/bin/node-waf configure', 'TERM': 'xterm-color', 'SHELL': '/bin/bash', 'VERSIONER_PYTHON_VERSION': '2.6', '__CF_USER_TEXT_ENCODING': '0x0:0:0', 'SUDO_USER': 'dekz'}
-files = []
-hash = 0
-options = {'compile_targets': None, 'force': False, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'destdir': '', 'keep': False, 'zones': '', 'blddir': '', 'prefix': '/usr/local/', 'jobs': 2, 'srcdir': '', 'check_cxx_compiler': 'g++'}
-srcdir = '/Users/dekz/Projects/node-sqlite'
